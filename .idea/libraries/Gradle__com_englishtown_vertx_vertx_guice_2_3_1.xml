@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.englishtown.vertx:vertx-guice:2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.englishtown.vertx/vertx-guice/2.3.1/fa2abf856e70f624e3abafaaa2a3e8d0be89f2cf/vertx-guice-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.englishtown.vertx/vertx-guice/2.3.1/f6f7634fa06c20f0938d65cfb23c8ea66b2ce984/vertx-guice-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
