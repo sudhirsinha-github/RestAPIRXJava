@@ -1,8 +1,0 @@
-{
-  "verticle": "java-guice:verticle.RestVerticle",
-  "instance": 1,
-  "setting": {
-    "service_port": 9090,
-    "guice_binder": "di.RestServiceVerticleBinder"
-  }
-}
